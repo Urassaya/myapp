@@ -1,4 +1,5 @@
 package myapp;
 
-public class X {
+public class X
+{
 }
